@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://Danny:Daniel33@mykontact.yjw2a.mongodb.net/contact?retryWrites=true&w=majority",
+	"JWT_SECRET": "iamasonofGodnotaslave"
+}
